@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MainVCtrl.viewDidLoad():MainVCtrl.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainVCtrl.collectionView(_:numberOfItemsInSection:):MainVCtrl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lstKeyword">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
