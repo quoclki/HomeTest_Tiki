@@ -7,6 +7,6 @@ HomeTest_Tiki Project for Tiki pre-interview assignment
 
 # Workflow of Split Message
 - Get JSON data from LINK_API and parse to object
-- Calculate layout of UICollectionView
+- Calculate layout of UICollectionView.
 - Set datasource for UICollectionView and reload.
 
