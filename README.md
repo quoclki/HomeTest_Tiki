@@ -5,7 +5,7 @@ HomeTest_Tiki Project for Tiki pre-interview assignment
 - Xcode 10.1
 - Swift 4.2
 
-# Workflow of Split Message
+# Workflow
 - Get JSON data from LINK_API and parse to object
 - Calculate layout of UICollectionView.
 - Set datasource for UICollectionView and reload.
